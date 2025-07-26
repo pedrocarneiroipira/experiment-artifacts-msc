@@ -1,0 +1,1054 @@
+
+Classificação de issues de manutenibilidade:
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S2710: Rename "self" to a valid class parameter name or add the missing class parameter.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S1192: Define a constant instead of duplicating this literal "a list or tuple" 17 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "a dictionary" 3 times.
+- [M] python:S125: Remove this commented out code.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "label".
+- [M] python:S1871: Either merge this branch with the identical one on line "908" or change one of the implementations.
+- [H] python:S1192: Define a constant instead of duplicating this literal "an integer" 5 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s__isnull" 5 times.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [L] python:S1481: Replace the unused local variable "reverse_path" with "_".
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S6553: Remove this "null=True" flag.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [L] python:S117: Rename this local variable "ChangeList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin:%s_%s_changelist" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin/%s/%s/popup_response.html" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin/%s/popup_response.html" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin/popup_response.html" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin:index" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.
+- [L] python:S117: Rename this local variable "ModelForm" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [L] python:S117: Rename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S117: Rename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S2638: Remove parameter obj or provide default value.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "admin:index" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "request".
+- [L] python:S117: Rename this local variable "AdminSiteClass" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S107: Method "__init__" has 14 parameters, which is greater than the 13 authorized.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "none" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "none" with "_".
+- [M] python:S1172: Remove the unused function parameter "attr".
+- [M] python:S1172: Remove the unused function parameter "view_args".
+- [M] python:S1172: Remove the unused function parameter "view_kwargs".
+- [H] python:S1192: Define a constant instead of duplicating this literal "filter:" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "view:" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "metadata" with "_".
+- [H] python:S1192: Define a constant instead of duplicating this literal "model:" 8 times.
+- [M] python:S1871: Either merge this branch with the identical one on line "318" or change one of the implementations.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "user_id".
+- [M] python:S1172: Remove the unused function parameter "user_obj".
+- [M] python:S1172: Remove the unused function parameter "obj".
+- [M] python:S1172: Remove the unused function parameter "obj".
+- [M] python:S1172: Remove the unused function parameter "user_obj".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "created".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S117: Rename this local variable "Permission" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "app_configs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S6559: Set the fields of this form explicitly instead of using "__all__".
+- [M] python:S1172: Remove the unused function parameter "environ".
+- [M] python:S1172: Remove the unused function parameter "environ".
+- [L] python:S1481: Replace the unused local variable "name" with "_".
+- [M] python:S1172: Remove the unused function parameter "encoded".
+- [M] python:S1172: Remove the unused function parameter "encoded".
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [L] python:S1481: Replace the unused local variable "empty" with "_".
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [L] python:S117: Rename this local variable "Permission" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 95 to the 15 allowed.
+- [M] python:S3358: Extract this nested conditional expression into an independent statement.
+- [M] python:S1172: Remove the unused function parameter "view_args".
+- [M] python:S1172: Remove the unused function parameter "view_kwargs".
+- [L] python:S117: Rename this local variable "Permission" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "Model" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "sender".
+- [L] python:S117: Rename this local variable "GlobalUserModel" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Django doesn't provide a DB representation for AnonymousUser." 4 times.
+- [M] python:S1172: Remove the unused function parameter "obj".
+- [M] python:S1172: Remove the unused function parameter "user".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S100: Rename method "DEFAULT_PASSWORD_LIST_PATH" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "user".
+- [M] python:S1172: Remove the unused function parameter "user".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S1481: Replace the unused local variable "column" with "_".
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.
+- [M] python:S107: Function "generic_inlineformset_factory" has 18 parameters, which is greater than the 13 authorized.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [L] python:S117: Rename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "interactive".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.
+- [L] python:S117: Rename this local variable "ContentType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1481: Replace the unused local variable "created" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.
+- [L] python:S117: Rename this local variable "Site" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S6559: Set the fields of this form explicitly instead of using "__all__".
+- [L] python:S117: Rename this local variable "Site" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S1172: Remove the unused function parameter "compiler".
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S2638: Add missing parameters srid.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [L] python:S117: Rename this local variable "PostGISBinaryDumper" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "PostGISTextDumper" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "ST_Polygon(%s)" 4 times.
+- [L] python:S101: Rename class "ST_Polygon" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [H] python:S2638: Add missing parameters srid.
+- [H] python:S2638: Add missing parameters srid.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [H] python:S2638: Add missing parameters srid.
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [L] python:S117: Rename this local variable "SpatialRefSys" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "ESRI Shapefile" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [L] python:S1481: Replace the unused local variable "hh" with "_".
+- [L] python:S1481: Replace the unused local variable "tz" with "_".
+- [L] python:S1481: Replace the unused local variable "mn" with "_".
+- [L] python:S1481: Replace the unused local variable "ss" with "_".
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S1481: Replace the unused local variable "tz" with "_".
+- [L] python:S1481: Replace the unused local variable "mm" with "_".
+- [L] python:S1481: Replace the unused local variable "tz" with "_".
+- [L] python:S1481: Replace the unused local variable "yy" with "_".
+- [L] python:S1481: Replace the unused local variable "dd" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [L] python:S1940: Use the opposite operator ("!=") instead.
+- [M] python:S1172: Remove the unused function parameter "error_class".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "result".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "units" with "_".
+- [L] python:S1481: Replace the unused local variable "name" with "_".
+- [L] python:S1481: Replace the unused local variable "units" with "_".
+- [L] python:S1481: Replace the unused local variable "name" with "_".
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [M] python:S125: Remove this commented out code.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [L] python:S101: Rename class "GEOSGeom_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "GEOSPrepGeom_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "GEOSCoordSeq_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "GEOSContextHandle_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [L] python:S117: Rename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "indexRange" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "newItems" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [L] python:S117: Rename this parameter "newItems" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "indexList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "newVals" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1542: Rename function "newItems" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "indexList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1542: Rename function "newItems" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1172: Remove the unused function parameter "func".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [M] python:S1172: Remove the unused function parameter "cargs".
+- [L] python:S101: Rename class "WKTReader_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "WKTWriter_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "WKBReader_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [L] python:S101: Rename class "WKBWriter_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "request".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [L] python:S117: Rename this local variable "SpatialRefSys" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 85 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S108: Either remove or fill this block of code.
+- [L] python:S6659: Use `endswith` here.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [L] python:S6659: Use `endswith` here.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [L] python:S117: Rename this local variable "SpatialRefSys" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1700: Rename field "message"
+- [L] python:S1481: Replace the unused local variable "all_retrieved" with "_".
+- [L] python:S100: Rename method "assertMessages" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%(function)s(%(distinct)s%(expressions)s %(ordering)s)" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1192: Define a constant instead of duplicating this literal "fillfactor = %d" 4 times.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "lang_code" with "_".
+- [L] python:S1481: Replace the unused local variable "obj" with "_".
+- [L] python:S117: Rename this local variable "Site" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [M] python:S5890: Replace the type hint "bool" with "Optional[bool]" or don't assign "None" to "last_mod"
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "app_configs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "app_config".
+- [M] python:S1172: Remove the unused function parameter "interactive".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S117: Rename this local variable "Site" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1481: Replace the unused local variable "port" with "_".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "app_configs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "app_configs".
+- [L] python:S117: Rename this local variable "Finder" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "options".
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S1172: Remove the unused function parameter "obj".
+- [M] python:S1172: Remove the unused function parameter "item".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Key '%s' not found" 4 times.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S4144: Update this function so that its implementation is not identical to touch on line 21.
+- [M] python:S4144: Update this function so that its implementation is not identical to touch on line 21.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.
+- [M] python:S1542: Rename function "E006" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [L] python:S101: Rename class "_OFFSET_UNION" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [M] python:S1172: Remove the unused function parameter "flags".
+- [M] python:S1172: Remove the unused function parameter "f".
+- [M] python:S1172: Remove the unused function parameter "f".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [H] python:S2638: Add a default value to parameter mode.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S117: Rename this parameter "META" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S117: Rename this parameter "META" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "http.response.body" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S2638: Make parameter self keyword-or-positional. This method overrides io.IOBase.readline.
+- [H] python:S1192: Define a constant instead of duplicating this literal "text/html" 3 times.
+- [H] python:S5655: Change this argument; Function "getaddresses" expects a different type
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "subtype" with "_".
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [M] python:S3358: Extract this nested conditional expression into an independent statement.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "output" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S1192: Define a constant instead of duplicating this literal "You can only use --pks option with one model" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 96 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "table_name".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S2638: Add missing parameters name pwd. This method overrides zipfile.ZipFile.read.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "status" with "_".
+- [L] python:S1481: Replace the unused local variable "err" with "_".
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s.pot" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.
+- [L] python:S1481: Replace the unused loop index "common_ancestor_generation" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 114 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal " (%.3fs)" 3 times.
+- [M] python:S1871: Either merge this branch with the identical one on line "402" or change one of the implementations.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "options".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "loader".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.
+- [L] python:S117: Rename this local variable "TestRunner" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.
+- [L] python:S5685: Move this assignment out of the function definition; ":=" operator is confusing in this context.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [L] python:S117: Rename this parameter "Model" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [L] python:S117: Rename this local variable "Model" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [L] python:S117: Rename this local variable "Model" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [M] python:S1542: Rename function "getInnerText" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S1871: Either merge this branch with the identical one on line "147" or change one of the implementations.
+- [L] python:S117: Rename this local variable "Signer" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [L] python:S6353: Use concise character class syntax '\d' instead of '[0-9]'.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Enter a valid %(protocol)s address." 3 times.
+- [L] python:S116: Rename this field "SchemaEditorClass" to match the regular expression ^[_a-z][_a-z0-9]*$.
+- [L] python:S3626: Remove this redundant return.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "keepdb".
+- [M] python:S1172: Remove the unused function parameter "autoclobber".
+- [M] python:S1172: Remove the unused function parameter "verbosity".
+- [M] python:S1172: Remove the unused function parameter "column".
+- [M] python:S1172: Remove the unused function parameter "output_field".
+- [M] python:S1172: Remove the unused function parameter "params".
+- [M] python:S1172: Remove the unused function parameter "returning_params".
+- [M] python:S1172: Remove the unused function parameter "db_type".
+- [M] python:S1172: Remove the unused function parameter "internal_type".
+- [M] python:S1172: Remove the unused function parameter "fields".
+- [M] python:S1172: Remove the unused function parameter "cursor".
+- [M] python:S1172: Remove the unused function parameter "table_name".
+- [M] python:S1172: Remove the unused function parameter "pk_name".
+- [M] python:S1172: Remove the unused function parameter "lookup_type".
+- [M] python:S1172: Remove the unused function parameter "internal_type".
+- [M] python:S1172: Remove the unused function parameter "style".
+- [M] python:S1172: Remove the unused function parameter "style".
+- [M] python:S1172: Remove the unused function parameter "model_list".
+- [M] python:S1172: Remove the unused function parameter "inline".
+- [M] python:S1172: Remove the unused function parameter "tablespace".
+- [M] python:S1172: Remove the unused function parameter "internal_type".
+- [M] python:S1172: Remove the unused function parameter "expression".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "expression".
+- [M] python:S1172: Remove the unused function parameter "value".
+- [M] python:S1172: Remove the unused function parameter "placeholder".
+- [M] python:S1172: Remove the unused function parameter "on_conflict".
+- [M] python:S1172: Remove the unused function parameter "on_conflict".
+- [M] python:S1172: Remove the unused function parameter "fields".
+- [M] python:S1172: Remove the unused function parameter "unique_fields".
+- [M] python:S1172: Remove the unused function parameter "update_fields".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "_fk_%(to_table)s_%(to_column)s" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "field".
+- [M] python:S1172: Remove the unused function parameter "field".
+- [M] python:S1172: Remove the unused function parameter "field".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "old_db_table_comment".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "field_db_params".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 108 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "model".
+- [M] python:S1172: Remove the unused function parameter "old_field".
+- [M] python:S1172: Remove the unused function parameter "old_field".
+- [M] python:S1172: Remove the unused function parameter "model".
+- [M] python:S1172: Remove the unused function parameter "model".
+- [M] python:S1172: Remove the unused function parameter "old_field".
+- [M] python:S1172: Remove the unused function parameter "new_type".
+- [M] python:S1172: Remove the unused function parameter "strict".
+- [M] python:S1172: Remove the unused function parameter "opclasses".
+- [M] python:S1172: Remove the unused function parameter "model".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "old_collation".
+- [M] python:S1172: Remove the unused function parameter "table_name".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "table".
+- [M] python:S1172: Remove the unused function parameter "table".
+- [M] python:S1172: Remove the unused function parameter "column".
+- [M] python:S1172: Remove the unused function parameter "index".
+- [M] python:S1172: Remove the unused function parameter "table".
+- [H] python:S1186: Add a nested comment explaining why this function is empty, or complete the implementation.
+- [H] python:S1192: Define a constant instead of duplicating this literal "varchar(%(max_length)s)" 4 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE %s" 4 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE BINARY %s" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "`%(column)s` >= 0" 3 times.
+- [M] python:S112: Replace this generic exception class with a more specific one.
+- [M] python:S4144: Update this function so that its implementation is not identical to supports_column_check_constraints on line 224.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "signed integer" 7 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "unsigned integer" 3 times.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S1192: Define a constant instead of duplicating this literal "NVARCHAR2(%(max_length)s)" 4 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "NUMBER(11)" 5 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%(qn_column)s >= 0" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE TRANSLATE(%s USING NCHAR_CS) ESCAPE TRANSLATE('\\' USING NCHAR_CS)" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE UPPER(TRANSLATE(%s USING NCHAR_CS)) " 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKEC %s ESCAPE '\\'" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKEC UPPER(%s) ESCAPE '\\'" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "cursor".
+- [L] python:S117: Rename this parameter "defaultType" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [L] python:S101: Rename class "Oracle_datetime" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [H] python:S1192: Define a constant instead of duplicating this literal "varchar(%(max_length)s)" 4 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal '"%(column)s" >= 0' 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "GENERATED BY DEFAULT AS IDENTITY" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE %s" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE UPPER(%s)" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S4144: Update this function so that its implementation is not identical to date_trunc_sql on line 98.
+- [M] python:S1172: Remove the unused function parameter "params".
+- [M] python:S1172: Remove the unused function parameter "sql".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S2638: Change this method signature to accept the same arguments as the method it overrides.
+- [H] python:S1192: Define a constant instead of duplicating this literal "varchar(%(max_length)s)" 4 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal '"%(column)s" >= 0' 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "LIKE %s ESCAPE '\\'" 7 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal ":memory:" 4 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 78 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "number" with "_".
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "expression".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.
+- [H] python:S2638: Add missing parameters old_collation table_name.
+- [M] python:S125: Remove this commented out code.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 85 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S1854: Remove this assignment to local variable 'node'; the value is never used.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "app_label".
+- [M] python:S1172: Remove the unused function parameter "name".
+- [M] python:S1172: Remove the unused function parameter "app_label".
+- [M] python:S1871: Either merge this branch with the identical one on line "50" or change one of the implementations.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [M] python:S1172: Remove the unused function parameter "field_name".
+- [M] python:S1172: Remove the unused function parameter "model_name".
+- [M] python:S1172: Remove the unused function parameter "field_name".
+- [M] python:S1172: Remove the unused function parameter "model_name".
+- [M] python:S1172: Remove the unused function parameter "old_name".
+- [M] python:S1172: Remove the unused function parameter "new_name".
+- [M] python:S1172: Remove the unused function parameter "field_instance".
+- [M] python:S1172: Remove the unused function parameter "model_name".
+- [M] python:S1172: Remove the unused function parameter "new_model_state".
+- [M] python:S1172: Remove the unused function parameter "old_model_state".
+- [M] python:S1172: Remove the unused function parameter "app_label".
+- [M] python:S1172: Remove the unused function parameter "model_name".
+- [M] python:S1172: Remove the unused function parameter "field_name".
+- [M] python:S1172: Remove the unused function parameter "field_name".
+- [M] python:S1172: Remove the unused function parameter "model_name".
+- [H] python:S1192: Define a constant instead of duplicating this literal "Quit and manually define a default value in models.py." 3 times.
+- [L] python:S100: Rename method "Migration" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S1192: Define a constant instead of duplicating this literal "import %s" 5 times.
+- [L] python:S1481: Replace the unused local variable "attr_name" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 130 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [M] python:S1871: Either merge this branch with the identical one on line "2365" or change one of the implementations.
+- [H] python:S1192: Define a constant instead of duplicating this literal "This method must be implemented by a subclass." 4 times.
+- [M] python:S1172: Remove the unused function parameter "model".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "CheckConstraint.check is deprecated in favor of `.condition`." 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "A constraint won't be created. Silence this warning if you " 6 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "args" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.
+- [M] python:S1542: Rename function "CASCADE" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1542: Rename function "PROTECT" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1542: Rename function "RESTRICT" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "using".
+- [M] python:S1542: Rename function "SET" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "using".
+- [M] python:S1172: Remove the unused function parameter "using".
+- [M] python:S1542: Rename function "SET_NULL" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1172: Remove the unused function parameter "using".
+- [M] python:S1542: Rename function "SET_DEFAULT" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1542: Rename function "DO_NOTHING" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S1186: Add a nested comment explaining why this function is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "source_attr".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [H] python:S1192: Define a constant instead of duplicating this literal "Use .bitand(), .bitor(), and .bitxor() for bitwise logical operations." 6 times.
+- [H] python:S1845: Rename method "bitand" to prevent any misunderstanding/clash with field "BITAND" defined on line 57
+- [H] python:S1845: Rename method "bitleftshift" to prevent any misunderstanding/clash with field "BITLEFTSHIFT" defined on line 59
+- [H] python:S1845: Rename method "bitrightshift" to prevent any misunderstanding/clash with field "BITRIGHTSHIFT" defined on line 60
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [H] python:S1845: Rename method "bitxor" to prevent any misunderstanding/clash with field "BITXOR" defined on line 61
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [H] python:S1845: Rename method "bitor" to prevent any misunderstanding/clash with field "BITOR" defined on line 58
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [H] python:S5712: Return "NotImplemented" instead of raising "NotImplementedError"
+- [M] python:S1172: Remove the unused function parameter "for_save".
+- [H] python:S1192: Define a constant instead of duplicating this literal "{}({})" 4 times.
+- [M] python:S1172: Remove the unused function parameter "for_save".
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [M] python:S1172: Remove the unused function parameter "relabels".
+- [M] python:S1172: Remove the unused function parameter "relabels".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "{}({}, {})" 3 times.
+- [L] python:S101: Rename class "NOT_PROVIDED" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.
+- [M] python:S1542: Rename function "return_None" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S107: Method "__init__" has 24 parameters, which is greater than the 13 authorized.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "compiler".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "django.db.models" 6 times.
+- [L] python:S1481: Replace the unused local variable "name" with "_".
+- [L] python:S1481: Replace the unused local variable "path" with "_".
+- [M] python:S1172: Remove the unused function parameter "instance".
+- [M] python:S1172: Remove the unused function parameter "model_instance".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "add".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "compiler".
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "content".
+- [H] python:S1192: Define a constant instead of duplicating this literal "JSON_EXTRACT(%s, '$')" 3 times.
+- [L] python:S1481: Replace the unused local variable "rhs" with "_".
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1172: Remove the unused function parameter "cls".
+- [L] python:S1481: Replace the unused local variable "column" with "_".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [L] python:S100: Rename method "RelatedObjectDoesNotExist" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S1192: Define a constant instead of duplicating this literal "get_prefetch_queryset() is deprecated. Use get_prefetch_querysets() " 4 times.
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s__in" 5 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [L] python:S100: Rename method "RelatedObjectDoesNotExist" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "'%s' instance expected, got %r" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 70 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s_id" 4 times.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S108: Either remove or fill this block of code.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Cannot change a query once a slice has been taken." 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [M] python:S3358: Extract this nested conditional expression into an independent statement.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 91 to the 15 allowed.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S1186: Add a nested comment explaining why this function is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s = %s" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S2638: Add missing parameters with_limits with_col_aliases.
+- [H] python:S2638: Add missing parameters chunked_fetch chunk_size.
+- [H] python:S2638: Add missing parameters with_limits with_col_aliases.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [H] python:S2638: Add missing parameters with_limits with_col_aliases.
+- [H] python:S2638: Add missing parameters chunked_fetch chunk_size.
+- [H] python:S2638: Add missing parameters with_col_aliases.
+- [H] python:S2638: Add missing parameters with_limits with_col_aliases.
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "field" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Joined field references are not permitted in this query" 3 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "rest" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "joins" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "compiler".
+- [M] python:S1172: Remove the unused function parameter "connection".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S1192: Define a constant instead of duplicating this literal "django.db.backends.dummy" 4 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "widget".
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.
+- [L] python:S1481: Replace the unused loop index "x" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "obj".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "uclass" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [M] python:S107: Function "modelformset_factory" has 23 parameters, which is greater than the 13 authorized.
+- [L] python:S117: Rename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [M] python:S107: Function "inlineformset_factory" has 25 parameters, which is greater than the 13 authorized.
+- [L] python:S117: Rename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S3626: Remove this redundant return.
+- [L] python:S1940: Use the opposite operator ("!=") instead.
+- [H] python:S1192: Define a constant instead of duplicating this literal "id_%s" 3 times.
+- [L] python:S117: Rename this parameter "META" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 101 to the 15 allowed.
+- [L] python:S116: Rename this field "IE_sanitize" to match the regular expression ^[_a-z][_a-z0-9]*$.
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "port" with "_".
+- [L] python:S117: Rename this parameter "META" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [M] python:S1110: Remove those redundant parentheses.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S1186: Add a nested comment explaining why this method is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "response".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "response".
+- [M] python:S1172: Remove the unused function parameter "callback_args".
+- [M] python:S1172: Remove the unused function parameter "callback_kwargs".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1700: Rename field "template"
+- [M] python:S1700: Rename field "template"
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.
+- [M] python:S108: Either remove or fill this block of code.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [L] python:S5713: Remove this redundant Exception class; it derives from another which is already caught.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3516: Refactor this method to not always return the same value.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "tag" with "_".
+- [M] python:S1172: Remove the unused function parameter "dirs".
+- [M] python:S1172: Remove the unused function parameter "func".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S117: Rename this parameter "Pattern" to match the regular expression ^[_a-z][a-z0-9_]*$.
+- [L] python:S1481: Replace the unused local variable "new_path" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "rest" with "_".
+- [H] python:S2638: Remove parameter to_path or provide default value.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S2638: Remove parameter to_path or provide default value.
+- [L] python:S1481: Replace the unused local variable "et" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S2836: Add a "break" statement or remove this "else" clause.
+- [L] python:S3626: Remove this redundant continue.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "request".
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [H] python:S1845: Rename method "A" to prevent any misunderstanding/clash with method "a" defined on line 71
+- [H] python:S1845: Rename method "G" to prevent any misunderstanding/clash with method "g" defined on line 110
+- [H] python:S1845: Rename method "H" to prevent any misunderstanding/clash with method "h" defined on line 118
+- [H] python:S1845: Rename method "D" to prevent any misunderstanding/clash with method "d" defined on line 209
+- [H] python:S1845: Rename method "L" to prevent any misunderstanding/clash with method "l" defined on line 235
+- [H] python:S1845: Rename method "M" to prevent any misunderstanding/clash with method "m" defined on line 243
+- [H] python:S1845: Rename method "N" to prevent any misunderstanding/clash with method "n" defined on line 251
+- [H] python:S1845: Rename method "W" to prevent any misunderstanding/clash with method "w" defined on line 301
+- [H] python:S1845: Rename method "Y" to prevent any misunderstanding/clash with method "y" defined on line 309
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal "abbrev. month" 12 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "alt. month" 12 times.
+- [H] python:S1186: Add a nested comment explaining why this function is empty, or complete the implementation.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S107: Method "__init__" has 15 parameters, which is greater than the 13 authorized.
+- [M] python:S107: Method "add_item" has 16 parameters, which is greater than the 13 authorized.
+- [L] python:S100: Rename method "writeString" to match the regular expression ^[a-z_][a-z0-9_]*$.
+- [M] python:S1066: Merge this if statement with the enclosing one.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "p1" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [L] python:S6659: Use `startswith` here.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [L] python:S1481: Replace the unused local variable "lang" with "_".
+- [H] python:S1192: Define a constant instead of duplicating this literal "django.server" 5 times.
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [L] python:S1481: Replace the unused loop index "i" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [M] python:S108: Either remove or fill this block of code.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%%(%s)s" 3 times.
+- [L] python:S1481: Replace the unused local variable "escaped" with "_".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S2638: Add 1 missing parameter. This method overrides io.BufferedIOBase.read.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "sender".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 195 to the 15 allowed.
+- [H] python:S1192: Define a constant instead of duplicating this literal " _(%s) " 3 times.
+- [M] python:S1172: Remove the unused function parameter "x".
+- [M] python:S1172: Remove the unused function parameter "x".
+- [M] python:S1172: Remove the unused function parameter "check_path".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "strict".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [M] python:S1172: Remove the unused function parameter "request".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [H] python:S1192: Define a constant instead of duplicating this literal "Date out of range" 3 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s__gte" 5 times.
+- [H] python:S1192: Define a constant instead of duplicating this literal "%s__lt" 5 times.
+- [M] python:S5806: Rename this variable; it shadows a builtin.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "kwargs".
+- [M] python:S1172: Remove the unused function parameter "request".
+- [M] python:S1172: Remove the unused function parameter "args".
+- [M] python:S1172: Remove the unused function parameter "queryset".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.
+- [M] python:S6019: Fix this reluctant quantifier that will only ever match 0 repetitions.
+- [M] python:S1134: Take the required action to fix the issue indicated by this "FIXME" comment.
+- [L] python:S1481: Remove the unused local variable "signode".
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.
+- [L] python:S6659: Use `startswith` here.
+- [L] python:S6659: Use `startswith` here.
+- [H] python:S1192: Define a constant instead of duplicating this literal "Django Software Foundation" 4 times.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.
+- [M] python:S1172: Remove the unused function parameter "languages".
+- [L] python:S1135: Complete the task associated to this "TODO" comment.
+- [H] python:S3776: Refactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.
+H: High | M: Medium | L: Low
+H: 482
+M: 393
+L: 172
+U: 0
